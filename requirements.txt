@@ -1,0 +1,6 @@
+pytest
+python-dotenv
+flask
+requests
+pydantic
+allure-pytest
